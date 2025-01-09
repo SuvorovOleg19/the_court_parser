@@ -42,7 +42,7 @@ namespace pulling_captchas
                     File.WriteAllBytes(filePath, bytes);
                 }
 
-                Thread.Sleep(201000);
+                Thread.Sleep(31000);
             }
         }
     }

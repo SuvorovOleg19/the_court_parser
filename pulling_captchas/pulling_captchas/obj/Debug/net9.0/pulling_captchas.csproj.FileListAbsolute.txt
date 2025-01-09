@@ -12,4 +12,3 @@ C:\Users\79536\OneDrive - УрФУ\Рабочий стол\the_court_parser\pull
 C:\Users\79536\OneDrive - УрФУ\Рабочий стол\the_court_parser\pulling_captchas\pulling_captchas\obj\Debug\net9.0\pulling_captchas.pdb
 C:\Users\79536\OneDrive - УрФУ\Рабочий стол\the_court_parser\pulling_captchas\pulling_captchas\obj\Debug\net9.0\pulling_captchas.genruntimeconfig.cache
 C:\Users\79536\OneDrive - УрФУ\Рабочий стол\the_court_parser\pulling_captchas\pulling_captchas\obj\Debug\net9.0\ref\pulling_captchas.dll
-C:\Users\79536\OneDrive - УрФУ\Рабочий стол\the_court_parser\pulling_captchas\pulling_captchas\obj\Debug\net9.0\pulling_captchas.sourcelink.json
